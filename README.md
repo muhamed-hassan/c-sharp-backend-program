@@ -2,7 +2,7 @@
 
 ***
 
-#### Please visit this [`link`](https://github.com/muhamed-hassan/c-sharp-backend-program/wiki/Full-stack-developer-joke) for jokes 🤣
+#### Please visit this [`link`](https://github.com/muhamed-hassan/c-sharp-backend-program/wiki/Jokes-in-the-profession-of-C%23%E2%80%90backend%E2%80%90development) for jokes 🤣
 
 ***
 
